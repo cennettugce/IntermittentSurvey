@@ -1,2 +1,2 @@
-# IntermittentSurvey
-A Survey of Intermittent Computing in Energy Harvesting Devices
+# A Survey of Intermittent Computing in Energy Harvesting Devices
+Batteryless solutions have been emerging as an alternative to heavy, costly and unsustainable battery usage in devices. Energy harvesting is used to power low energy devices; however, the implementation of energy harvesting requires special attention from the programmers because of the intermittently operational nature of batteryless devices. An energy buffer should be added, and the problems caused by power failure should be handled at the software level. This paper provides a survey on solutions brought to the design space to enable intermittent computing in energy harvesting devices. The problems with intermittent computing is explained, the solution methods are compared and presented, and the various application areas are surveyed.
